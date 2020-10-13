@@ -1,0 +1,41 @@
+The command to move the edited files to a temporary directoy, but exempt to commit the edited files
+• git commit
+•	git status
+•	git stash ---A
+•	git branch
+
+
+The command to see the changes made to a tracked file ?
+•	git status
+•	git init
+•	git diff  ---A
+•	git commit
+
+
+What does the command "git fetch" do ?
+
+•	It gets the changes made in remote repositoiry and copies them to local repositoiry and and merges them to working directory
+•	It does not copy the changes from the remote repository and will not affect local copy and working directory.
+•	It gets the changes from the remote repository, but do not copy them to local repository and working directory
+•	It gets the changes made in remote repositoiry and copies them to local repositoiry, but not merged these changes to the working directory --A
+
+
+What is the command to create and switch to a branch ?
+
+•	git checkin -b <branchname>
+•	git checkout -b <branchname>   -A
+•	git check -b <branchname>
+•	git branch <branchname>
+
+Which one is a better solution if many people are working simultanesouly on the same project
+
+•	Without Version control
+•	Local version Control
+•	Centralised Version Control   -A
+•	None of the above
+
+Which is true for version control ?
+•	changes saved in a file can not be reverted back
+•	changes saved in a file can be reverted back  --A
+•	Changes made are permanent
+•	None of the above
